@@ -1,0 +1,19 @@
+# Build output
+/bin/
+/dist/
+
+# Local database
+*.db
+*.db-shm
+*.db-wal
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
